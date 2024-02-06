@@ -19,8 +19,8 @@ const Timeline = () => {
         </div>
 
         <div className='timeline-component timeline-content'>
-          <h3>British Council (2023)</h3>
-          <p>C1 Advanced (Aptis ESOL) </p>
+          <h3>SFMC Email Marketing Specialist(2023)</h3>
+          <p>Max Mara Fashion Group </p>
         </div>
 
         <div className='timeline-middle'>
@@ -35,12 +35,12 @@ const Timeline = () => {
         </div>
 
         <div className='timeline-component timeline-content'>
-          <h3>Antonio de Nebrija University (2016 - 2020)</h3>
-          <p>Bachelor's Degree in Bilingual Primary Education</p>
+          <h3>The British Standards Institution</h3>
+          <p>Marketing Assistant</p>
         </div>
         <div className='timeline-component timeline-content'>
-          <h3>Rockbotic (2017 - 2018)</h3>
-          <p>Primary school robotics teacher for children using Scratch and Arduino.</p>
+          <h3>University of Modena and Reggio Emilia </h3>
+          <p>M.A. Economics</p>
         </div>
 
         <div className='timeline-middle'>
@@ -53,8 +53,8 @@ const Timeline = () => {
           <div className='timeline-circle'></div>
         </div>
         <div className='timeline-component timeline-content'>
-          <h3>ECAM (2014 - 2016)</h3>
-          <p>Diploma in Cinematography.</p>
+          <h3>Ca'Foscari University of Venice(2009 - 2016)</h3>
+          <p>M.A. Chinese Language</p>
         </div>
       </div>
       <div className='timeline-middle'>

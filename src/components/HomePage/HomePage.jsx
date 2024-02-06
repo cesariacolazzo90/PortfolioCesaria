@@ -1,8 +1,8 @@
 import './HomePage.css'
-import profilePhoto from '../../assets/profileCarlos.png'
+// import profilePhoto from '../../assets/FOTO_PROFILO.jpg'
 import TypewriterEffect from '../TypewriterEffect/TypewriterEffect'
 import CardProject from '../CardProject/CardProject'
-import firstProjectImg from '../../assets/firstproject.jpeg'
+import firstProjectImg from '../../assets/flappybird.png'
 import secondProjectImg from '../../assets/secondproject.jpeg'
 import finalProjectImg from '../../assets/finalproject.jpeg'
 import Timeline from '../Timeline/Timeline'
@@ -42,7 +42,7 @@ export default function HomePage() {
         <div className='allText'>
           <div className='carlosText'>
             <TypewriterEffect
-              text='Carlos Rodríguez'
+              text='Cesaria Colazzo'
               typingDelay={200}
               repeatDelay={5000}
               className='nameHome text-lg md:text-xl'
@@ -116,13 +116,13 @@ export default function HomePage() {
           <FaGithub size={72} />
         </a>
         <a
-          href='https://www.linkedin.com/in/carlos-rodr%C3%ADguez-morales/'
+          href='https://www.linkedin.com/in/cesaria-91439292/'
           className='text-gray-300 hover:text-white mx-10'
         >
           <FaLinkedin size={72} />
         </a>
         <a
-          href='mailto:carlos97sdg@gmail.com'
+          href='csr.colazzo@gmail.com'
           style={{ display: 'inline-block' }}
           className='text-gray-300 hover:text-white mx-10'
         >

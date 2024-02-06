@@ -1,6 +1,8 @@
-import { Fragment } from 'react'
-import { Disclosure, Menu, Transition } from '@headlessui/react'
-import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
+// import { Fragment } from 'react'
+import { Disclosure, } from '@headlessui/react'
+// Menu, Transition  
+import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
+// import {BellIcon} '@heroicons/react/24/outline'
 import { FaGithub, FaLinkedin } from 'react-icons/fa'
 import './Navbar.css'
 
@@ -80,7 +82,7 @@ export default function Navbar() {
                   <FaGithub size={24} />
                 </a>
                 <a
-                  href='https://www.linkedin.com/in/carlos-rodr%C3%ADguez-morales/'
+                  href='https://www.linkedin.com/in/cesaria-91439292/'
                   className='text-gray-300 hover:text-white mx-2'
                 >
                   <FaLinkedin size={24} />
